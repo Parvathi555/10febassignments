@@ -1,0 +1,15 @@
+n=int(input("Enter a number"))
+if n<0:
+    print("Given number is negative")
+else:
+    print("Given number is positive")
+    
+
+Output1:Enter a number15
+        Given number is positive
+
+Output2:Enter a number-1
+        Given number is negative
+
+Output3:Enter a number10
+        Given number is positive
